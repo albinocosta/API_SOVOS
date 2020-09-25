@@ -1,0 +1,2 @@
+# fake address to simulate an dev environment
+url_padrao: 'http://dev.fakerestapi.azurewebsites.net'
